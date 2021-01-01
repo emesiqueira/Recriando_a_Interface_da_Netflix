@@ -1,10 +1,6 @@
 
-
 ## :camera: Pré-visualização
-
-<h1>
   <img src="https://i.ibb.co/YkYhk22/screencapture-file-C-Users-emers-Desktop-Meus-Projetos-Recriando-a-Interface-da-Netflix-index-html-2.png">
-</h1>
 
 ## :bulb: Tecnologias Utilizadas 
 
