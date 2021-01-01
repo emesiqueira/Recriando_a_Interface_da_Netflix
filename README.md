@@ -1,12 +1,12 @@
 
 
-## :pic: Pré-visualização
+## :camera: Pré-visualização
 
 <h1>
   <img src="https://i.ibb.co/YkYhk22/screencapture-file-C-Users-emers-Desktop-Meus-Projetos-Recriando-a-Interface-da-Netflix-index-html-2.png">
 </h1>
 
-## :rocket: Tecnologias Utilizadas 
+## :bulb: Tecnologias Utilizadas 
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -16,7 +16,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - JQuery
 - Font Awesome 
 
-## :rocket: Programa Utilizado
+## :computer: Programa Utilizado
 
 Visual Studio Code
 
